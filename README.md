@@ -6,7 +6,7 @@ This is a simple example of creating a voting system system using Solidity, Truf
 The example is based off a tutorial provided by Dapp University (https://www.youtube.com/watch?v=3681ZYbDSSk).
 Minor changes and updates were made to keep the dapp up-to-date
 
-# pre-requisites 
+# Pre-Requisites 
 
 1. NPM installed
 2. Ganache Installed and Running Locally
